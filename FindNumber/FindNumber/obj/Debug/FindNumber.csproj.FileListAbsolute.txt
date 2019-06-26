@@ -1,0 +1,7 @@
+C:\Users\freel\source\repos\FindNumber\FindNumber\obj\Debug\FindNumber.csprojAssemblyReference.cache
+C:\Users\freel\source\repos\FindNumber\FindNumber\obj\Debug\FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\freel\source\repos\FindNumber\FindNumber\bin\Debug\FindNumber.exe.config
+C:\Users\freel\source\repos\FindNumber\FindNumber\bin\Debug\FindNumber.exe
+C:\Users\freel\source\repos\FindNumber\FindNumber\bin\Debug\FindNumber.pdb
+C:\Users\freel\source\repos\FindNumber\FindNumber\obj\Debug\FindNumber.exe
+C:\Users\freel\source\repos\FindNumber\FindNumber\obj\Debug\FindNumber.pdb
